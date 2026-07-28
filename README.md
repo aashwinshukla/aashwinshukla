@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C Python Git & GitHub Linux**
 
-- 👯 I’m looking to collaborate on **Open Source Projects Hackathons**
+- 👯 I’m looking to collaborate on **Open Source Projects Hackathons** 
 
 - 🤝 I’m looking for help with **Systems Programming Open Source AI & Research**
 
