@@ -1,53 +1,64 @@
-## Hi there! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CFF,100:22D3EE&height=220&section=header&text=Aashwin%20Shukla&fontSize=42&fontColor=ffffff&desc=Building%20in%20public%2C%20one%20project%20at%20a%20time.%20Exploring%20AI%2C%20software%20engineering%2C%20mathematics%2C%20and%20systems%20programming.%20Always%20learning.%20Always%20building.&descSize=18&descAlign=50&descAlignY=58)
+<div align="center">
 
-### Hi, I'm **Aashwin Shukla** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CFF&center=true&vCenter=true&width=600&lines=Systems%2C%20AI%2C%20and%20game%20dev%20enthusiast;Building%20cool%20things%20in%20public;Turning%20math%20and%20logic%20into%20code)](https://git.io/typing-svg)
 
-Building in public, one project at a time.
-Exploring AI, software engineering, mathematics, and systems programming.
-Always learning. Always building.
+</div>
+<div align="center">
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=aashwinshukla&color=8B5CFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-### About Me
+</div>
+## ⚡ About Me
+- I am a developer on a journey from curious beginner to prolific builder, sharing every step in public.
+- My interests span AI, systems programming, mathematics, and game development with tools like Godot and Blender.
+- Long term, I aim to connect with global creators through open source projects, research, and hackathons.
+## 🚀 What I'm Up To
 
-- GitHub: [aashwinshukla](https://github.com/aashwinshukla) 
-- Member since: **2026-07-13**
+- Currently exploring AI and systems programming one project at a time
+- Crafting games and assets using Godot, LibreSprite, and Blender
+- Always excited to collaborate on open source projects and hackathons
 
+## 🛠️ Tech Arsenal
+<div align="center">
 
-- 🌱 Always learning, always building.
-- 💻 Interested in AI, software engineering, systems programming, mathematics, and startups.
-- 🛠️ Building projects in public to document my journey from beginner to builder.
-- 🌍 Long-term goal: collaborate with people around the world through open source, research, and hackathons.
-- 📚 Currently exploring one technology at a time and turning every milestone into real projects.
-- 🤝 Always happy to connect with people who love building cool things.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-555?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-555?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-555?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-555?style=for-the-badge) ![Godot](https://img.shields.io/badge/Godot-555?style=for-the-badge) ![LibreSprite](https://img.shields.io/badge/LibreSprite-555?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-555?style=for-the-badge)
 
-## Skills & Technologies
+</div>
+## 📊 GitHub Analytics
+<div align="center">
 
-Python, C, C++, HTML, CSS, Git, GitHub, Linux, VS Code, Godot, LibreSprite, Blender
+![aashwinshukla's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashwinshukla&layout=compact&theme=tokyonight&hide_border=true)
 
-## GitHub Stats
+</div>
+<div align="center">
 
-### GitHub Stats 📊
+![GitHub Streak](https://streak-stats.demolab.com?user=aashwinshukla&theme=tokyonight&hide_border=true)
 
-- Public repositories: **8**
-- Followers: **2**
-- Following: **2**
+</div>
+<div align="center">
 
-Badges & Cards:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashwinshukla&theme=tokyo-night&hide_border=true&area=true)](https://github.com/aashwinshukla)
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&theme=default)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashwinshukla&layout=compact&theme=default)
-- Followers: ![Followers](https://img.shields.io/github/followers/aashwinshukla?label=Followers&style=social)
-- Repos: ![Public Repos](https://img.shields.io/badge/public%20repos-8-blue)
+</div>
+<div align="center">
 
-(If you'd like different themes or custom badges, I can add them to the README.)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aashwinshukla&theme=tokyonight&no-frame=true&column=7&margin-w=10)
 
-## Connect with Me
+</div>
+## 🤝 Connect & Support
 
-### Connect with Me 🔗
+<div align="center">
 
-- 🐙 GitHub: [https://github.com/aashwinshukla](https://github.com/aashwinshukla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aashwin Shukla) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaaashwin949@gmail.com)
 
-Social accounts on profile: _None provided_
+</div>
 
-If you'd like to connect elsewhere, feel free to add links for Twitter, LinkedIn, or a personal website to your GitHub profile. For quick contact, opening an issue or discussion in a repository is the best way to reach me. 💬
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CFF&height=120&section=footer&text=&fontSize=42)
+
+<div align="center">
+
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
+</div>
