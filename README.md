@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+
 </div>  
   
 
@@ -35,7 +35,7 @@ Always learning. Always building.</div>
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -50,11 +50,10 @@ Always learning. Always building.</div>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
-</td><td valign="top" width="33%">
+
 
 
 
@@ -82,15 +81,7 @@ Always learning. Always building.</div>
 
 <br/>  
 
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aashwinshukla&&style=flat-square" align="center" />
