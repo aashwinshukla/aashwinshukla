@@ -1,97 +1,34 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aashwin Shukla</h1>
+<h3 align="center">**Building in public • AI Explorer • Future Research Engineer**</h3>
 
-</div>  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashwinshukla&label=Profile%20views&color=0e75b6&style=flat" alt="aashwinshukla" /> </p>
 
-### <div align="center">Hi, I'm Aashwin Shukla 👋
+- 🔭 I’m currently working on **Building my Artifact Collection (C • Python • C++ • Web Development)**
 
-Building in public, one project at a time.
-Exploring AI, software engineering, mathematics, and systems programming.
-Always learning. Always building.</div>  
-  
+- 🌱 I’m currently learning **C Python Git & GitHub Linux**
 
--  🌱 Always learning, always building.  
-  
+- 👯 I’m looking to collaborate on **Open Source Projects Hackathons**
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🤝 I’m looking for help with **Systems Programming Open Source AI & Research**
 
--  💻 Interested in AI, software engineering, systems programming, mathematics, and startups.  
-  
+- 👨‍💻 All of my projects are available at [https://github.com/aashwinshukla](https://github.com/aashwinshukla)
 
-- 🛠️ Building projects in public to document my journey from beginner to builder.  
-  
+- 💬 Ask me about **C, Python, GitHub, Build in Public**
 
-- 🌍 Long-term goal: collaborate with people around the world through open source, research, and hackathons.  
-  
+- 📫 How to reach me **shuklaaashwin949@gmail.com**
 
-- 📚 Currently exploring one technology at a time and turning every milestone into real projects.  
-  
+- ⚡ Fun fact **⚔️ Turning programming into an RPG—every project is an Artifact.**
 
-- 🤝 Always happy to connect with people who love building cool things.  
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aashwin shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashwin shukla" height="30" width="40" /></a>
+</p>
 
-<br/>  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashwinshukla&show_icons=true&locale=en&layout=compact" alt="aashwinshukla" /></p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&locale=en" alt="aashwinshukla" /></p>
 
-
-
-### Skill Set  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-
-
-
-
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/aashwinshukla" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Aashwin Shukla" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aashwinshukla&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashwinshukla&" alt="aashwinshukla" /></p>
