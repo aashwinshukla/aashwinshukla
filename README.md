@@ -1,34 +1,53 @@
-<h1 align="center">Hi 👋, I'm Aashwin Shukla</h1>
-<h3 align="center">**Building in public • AI Explorer • Future Research Engineer**</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashwinshukla&label=Profile%20views&color=0e75b6&style=flat" alt="aashwinshukla" /> </p>
+### Hi, I'm **Aashwin Shukla** 👋
 
-- 🔭 I’m currently working on **Building my Artifact Collection (C • Python • C++ • Web Development)**
+Building in public, one project at a time.
+Exploring AI, software engineering, mathematics, and systems programming.
+Always learning. Always building.
 
-- 🌱 I’m currently learning **C Python Git & GitHub Linux**
+## About Me
 
-- 👯 I’m looking to collaborate on **Open Source Projects Hackathons** 
+### About Me
 
-- 🤝 I’m looking for help with **Systems Programming Open Source AI & Research**
+- GitHub: [aashwinshukla](https://github.com/aashwinshukla) 
+- Member since: **2026-07-13**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aashwinshukla](https://github.com/aashwinshukla)
 
-- 💬 Ask me about **C, Python, GitHub, Build in Public**
+- 🌱 Always learning, always building.
+- 💻 Interested in AI, software engineering, systems programming, mathematics, and startups.
+- 🛠️ Building projects in public to document my journey from beginner to builder.
+- 🌍 Long-term goal: collaborate with people around the world through open source, research, and hackathons.
+- 📚 Currently exploring one technology at a time and turning every milestone into real projects.
+- 🤝 Always happy to connect with people who love building cool things.
 
-- 📫 How to reach me **shuklaaashwin949@gmail.com**
+## Skills & Technologies
 
-- ⚡ Fun fact **⚔️ Turning programming into an RPG—every project is an Artifact.**
+Python, C, C++, HTML, CSS, Git, GitHub, Linux, VS Code, Godot, LibreSprite, Blender
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aashwin shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashwin shukla" height="30" width="40" /></a>
-</p>
+## GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### GitHub Stats 📊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashwinshukla&show_icons=true&locale=en&layout=compact" alt="aashwinshukla" /></p>
+- Public repositories: **8**
+- Followers: **2**
+- Following: **2**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&locale=en" alt="aashwinshukla" /></p>
+Badges & Cards:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashwinshukla&" alt="aashwinshukla" /></p> 
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&theme=default)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashwinshukla&layout=compact&theme=default)
+- Followers: ![Followers](https://img.shields.io/github/followers/aashwinshukla?label=Followers&style=social)
+- Repos: ![Public Repos](https://img.shields.io/badge/public%20repos-8-blue)
+
+(If you'd like different themes or custom badges, I can add them to the README.)
+
+## Connect with Me
+
+### Connect with Me 🔗
+
+- 🐙 GitHub: [https://github.com/aashwinshukla](https://github.com/aashwinshukla)
+
+Social accounts on profile: _None provided_
+
+If you'd like to connect elsewhere, feel free to add links for Twitter, LinkedIn, or a personal website to your GitHub profile. For quick contact, opening an issue or discussion in a repository is the best way to reach me. 💬
