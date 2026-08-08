@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building my Artifact Collection (C • Python • C++ • Web Development)**
 
-- 🌱 I’m currently learning **C Python Git & GitHub Linux**
+- 🌱 I’m currently learning **C++ DSA Git & GitHub Linux**
 
 - 👯 I’m looking to collaborate on **Open Source Projects Hackathons**
 
