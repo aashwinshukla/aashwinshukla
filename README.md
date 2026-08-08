@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aashwinshukla](https://github.com/aashwinshukla)
 
-- 💬 Ask me about **C, Python, GitHub, Build in Public**
+- 💬 Ask me about **C, Python, C++, GitHub, Build in Public**
 
 - 📫 How to reach me **shuklaaashwin949@gmail.com**
 
