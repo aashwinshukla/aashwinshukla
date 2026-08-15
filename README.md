@@ -26,7 +26,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aashwinshukla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aashwinshukla&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashwinshukla&label=Profile%20views&color=0e75b6&style=flat" alt="aashwinshukla" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
