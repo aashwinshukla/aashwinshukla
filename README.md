@@ -2,63 +2,32 @@
 
 <h3 align="center">Building in public &nbsp;•&nbsp; AI Explorer &nbsp;•&nbsp; Future Research Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashwinshukla&label=Profile%20views&color=0e75b6&style=flat" alt="aashwinshukla" />
-</p>
+# 💫 About Me:
+🔭 I'm currently working on C++ Projects and Open Source<br><br>🌱 I'm currently learning C++ • DSA • Git & GitHub • Linux<br><br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br><br>🤝 I'm looking for help with Systems Programming • Open Source • AI & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aashwin Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklaaashwin949@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aashwinshukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aashwinshukla&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aashwinshukla&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aashwinshukla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aashwinshukla&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aashwinshukla&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I'm currently working on **C++ • DSA • Web Development**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🌱 I'm currently learning **C++ • DSA • Git & GitHub • Linux**
-
-- 👯 I'm looking to collaborate on **Open Source Projects & Hackathons**
-
-- 🤝 I'm looking for help with **Systems Programming • Open Source • AI & Research**
-
-- 👨‍💻 All of my projects are available at [github.com/aashwinshukla](https://github.com/aashwinshukla)
-
-- 💬 Ask me about **C++ • Python • GitHub • Build in Public**
-
-- 📫 Reach me at **shuklaaashwin949@gmail.com**
-
-- ⚡ Fun fact **The best code I've written is the one I haven't deleted yet.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="mailto:shuklaaashwin949@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/aashwinshukla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,c,html,css,blender,git,linux,vscode&theme=dark" />
-  </a>
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashwinshukla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="aashwinshukla stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashwinshukla&theme=tokyonight&hide_border=true" alt="aashwinshukla streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashwinshukla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="aashwinshukla top langs" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
