@@ -3,7 +3,7 @@
 <h3 align="center">Building in public &nbsp;•&nbsp; AI Explorer &nbsp;•&nbsp; Future Research Engineer</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on C++ Projects and Open Source<br><br>🌱 I'm currently learning C++ • DSA • Git & GitHub • Linux<br><br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br><br>🤝 I'm looking for help with Systems Programming • Open Source • AI & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
+🔭 I'm currently working on Web Development (Full-Stack) and Open Source<br><br>🌱 I'm currently learning DSA • Web Development • Git & GitHub • Linux<br><br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br><br>🤝 I'm looking for help with Systems Programming • Open Source • AI/ML & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
 
 
 ## 🌐 Socials:
