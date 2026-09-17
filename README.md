@@ -9,6 +9,22 @@
 # 🚀 Featured Projects:
 
 <!-- PROJECT ENTRY START -->
+
+### 🧠 [UMR — Universal Memory Runtime](https://github.com/UniversalMemoryRuntime/UMR) `🚧 In Progress`
+**Modular, observable, high-performance memory management runtime for C**
+Replaces `malloc` with six specialized allocator engines (Arena, Pool, Slab, Buddy, Fragment, General) and a full intelligence layer. Features live allocation tracking, leak detection, ASCII heap visualization, binary snapshots, JSON dumps, four policy presets, and a CLI tool — all in a single dependency-free C library.
+
+**Tech:** `C11/C23` `Memory Management` `Systems Programming` `CMake` `Cross-Platform` `Performance Engineering`
+
+**Key Features:**
+✓ Six purpose-built allocator engines for different workloads
+✓ Live stats, leak detection, and fragmentation metrics
+✓ Zero-overhead tracking (opt-in) with source location metadata
+✓ Policy system (FAST, LOW_MEMORY, REALTIME, DEBUG)
+✓ Full CI pipeline with ASan/TSan on Linux, Windows, macOS
+
+---
+
 ### 🎲 [Monte Carlo Reimplementation](https://github.com/aashwinshukla/monte-carlo-reimplementation)
 **Modular C++ re-implementation and empirical analysis of Monte Carlo simulations**
 Featuring detailed notes and insights based on Prof. John Guttag's lectures. Clean architecture, statistical validation, and real-world probability modeling.
@@ -38,6 +54,30 @@ Built from scratch without any search framework. Features automatic spell correc
 Runs in its own dark-themed window instead of a system terminal. Features colour-coded output, scrollable command history, and Windows-native rendering using DirectX 9. Implements core shell commands (ls, cd, pwd, mkdir, etc.) with a clean ImGui interface.
 
 **Tech:** `C` `C++` `Dear ImGui` `DirectX 9` `Win32 API` `Systems Programming`
+
+---
+
+### 📚 [Learning Python End to End](https://github.com/aashwinshukla/learning-python-end-to-end)
+**Complete Python learning path with 14 chapters, hands-on scripts, and mini-projects**
+Covers everything from basics to OOP with inline comments and runnable examples. Includes projects like a guessing game, translator, CLI banking app, and Caesar cipher encryption. Each chapter builds progressively with bonus material on LEGB scope and modules.
+
+**Tech:** `Python` `OOP` `Data Structures` `Error Handling` `NLP Basics` `Algorithms`
+
+---
+
+### 📚 [Learning C++ End to End](https://github.com/aashwinshukla/learning-cpp-end-to-end)
+**Structured C++ notes from fundamentals to advanced OOP and modern C++20 features**
+19 chapters covering pointers, references, memory management, templates, lambda functions, concepts (C++20), inheritance, polymorphism, and the full STL. Written as `.cpp` files with detailed comments and beginner-friendly explanations.
+
+**Tech:** `C++` `C++20` `OOP` `STL` `Memory Management` `Templates` `Polymorphism`
+
+---
+
+### 🌐 [Web Development Frontend Self-Learning](https://github.com/aashwinshukla/Web-development-Frontend-Self-Learning)
+**Frontend learning journey with structured notes and 9 projects built from scratch**
+Covers HTML, CSS, Tailwind, JavaScript, and React.js. Includes a weather app with live API integration in vanilla JavaScript and 5 complete React.js projects demonstrating hooks, state management, and component architecture.
+
+**Tech:** `HTML` `CSS` `Tailwind CSS` `JavaScript` `React.js` `API Integration` `Component Design`
 
 ---
 
