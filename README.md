@@ -9,6 +9,22 @@
 # 🚀 Featured Projects:
 
 <!-- PROJECT ENTRY START -->
+### 🎲 [Monte Carlo Reimplementation](https://github.com/aashwinshukla/monte-carlo-reimplementation)
+**Modular C++ re-implementation and empirical analysis of Monte Carlo simulations**
+Featuring detailed notes and insights based on Prof. John Guttag's lectures. Clean architecture, statistical validation, and real-world probability modeling.
+
+**Tech:** `C++` `Monte Carlo Methods` `Statistical Analysis` `Algorithm Design`
+
+---
+
+### 💬 [Chat Server](https://github.com/aashwinshukla/chat-server)
+**Multi-client chat server built from scratch using raw TCP sockets in Python**
+Supports both terminal and GUI clients with admin controls, private messaging, mute/kick commands, auto-reconnect, and live user tracking. No third-party libraries — pure Python sockets and threading.
+
+**Tech:** `Python` `TCP Sockets` `Threading` `Tkinter` `Network Programming`
+
+---
+
 
 <!-- PROJECT ENTRY END -->
 
