@@ -25,6 +25,22 @@ Supports both terminal and GUI clients with admin controls, private messaging, m
 
 ---
 
+### 🔍 [Mini Search Engine](https://github.com/aashwinshukla/mini-search-engine)
+**Command-line search engine with TF-IDF ranking and full NLP preprocessing pipeline**
+Built from scratch without any search framework. Features automatic spell correction, emoji handling, POS-aware lemmatization, and relevance-based ranking. Indexes documents and returns ranked results based on term frequency and inverse document frequency.
+
+**Tech:** `Python` `NLP` `TF-IDF` `NLTK` `Information Retrieval` `Text Processing`
+
+---
+
+### 💻 [Tiny Shell](https://github.com/aashwinshukla/Tiny-Shell)
+**Custom command-line shell in C with a Dear ImGui graphical terminal UI**
+Runs in its own dark-themed window instead of a system terminal. Features colour-coded output, scrollable command history, and Windows-native rendering using DirectX 9. Implements core shell commands (ls, cd, pwd, mkdir, etc.) with a clean ImGui interface.
+
+**Tech:** `C` `C++` `Dear ImGui` `DirectX 9` `Win32 API` `Systems Programming`
+
+---
+
 
 <!-- PROJECT ENTRY END -->
 
