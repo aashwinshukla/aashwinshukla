@@ -25,6 +25,24 @@ Replaces `malloc` with six specialized allocator engines (Arena, Pool, Slab, Bud
 
 ---
 
+### 🎬 [MyWatch](https://github.com/aashwinshukla/MyWatch)
+
+**Personal movie and TV show tracker — search by title, actor, or director, build your watchlist, and track what you've watched**
+
+Search for any movie or show, explore actor filmographies, add titles to your personal watchlist, and keep track of what you've watched — all without needing an account. Built with React and powered by OMDb and TMDB APIs. Features persistent localStorage, real-time search, HD backdrop images, and a fully responsive UI.
+
+**Tech:** `React` `Tailwind CSS` `React Router` `Context API` `OMDb API` `TMDB API` `Vite` `Vercel`
+
+**Key Features:**
+✓ Advanced search (title, actor, director) with fuzzy matching
+✓ Person pages with full filmography
+✓ Watchlist with filter, sort, and personal notes
+✓ Keyboard shortcuts (press `/` to search)
+✓ Toast notifications and smooth animations
+✓ Mobile-responsive with touch-friendly UI
+
+---
+
 ### 🎲 [Monte Carlo Reimplementation](https://github.com/aashwinshukla/monte-carlo-reimplementation)
 **Modular C++ re-implementation and empirical analysis of Monte Carlo simulations**
 Featuring detailed notes and insights based on Prof. John Guttag's lectures. Clean architecture, statistical validation, and real-world probability modeling.
