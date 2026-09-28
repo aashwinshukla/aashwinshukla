@@ -43,6 +43,23 @@ Search for any movie or show, explore actor filmographies, add titles to your pe
 
 ---
 
+### ✅ [FaceTask](https://github.com/aashwinshukla/FaceTask) · [Live Demo](https://face-task.vercel.app)
+**Drag-and-drop Kanban task board — plan, organize, and track tasks across To Do, In Progress, and Done**
+
+Create tasks with priorities and due dates, drag them between columns, and undo accidental deletes. A separate analytics dashboard shows completion rate, overdue tasks, and breakdowns by column and priority, all computed from the same live board state. Your board persists in localStorage, so no account is needed.
+
+**Tech:** `React 19` `Vite` `dnd-kit` `React Router` `Context API` `Tailwind CSS` `Vercel`
+
+**Key Features:**
+✓ Real drag-and-drop with @dnd-kit
+✓ Add, edit, delete with undo-delete
+✓ Search and filter by priority or column
+✓ Analytics dashboard derived from live state
+✓ Keyboard shortcut (press `N` to add a task)
+✓ Responsive UI with toast notifications
+
+---
+
 ### 🎲 [Monte Carlo Reimplementation](https://github.com/aashwinshukla/monte-carlo-reimplementation)
 **Modular C++ re-implementation and empirical analysis of Monte Carlo simulations**
 Featuring detailed notes and insights based on Prof. John Guttag's lectures. Clean architecture, statistical validation, and real-world probability modeling.
