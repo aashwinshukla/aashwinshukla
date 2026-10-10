@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I'm currently working on Web Development (Full-Stack) and Open Source<br><br>🌱 I'm currently learning DSA • Web Development • Git & GitHub • Linux<br><br>👯 I'm looking to collaborate on Open Source Projects & Hackathons<br><br>🤝 I'm looking for help with Systems Programming • Open Source • AI/ML & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
+🔭 I'm currently working on Web Development (Full-Stack) and Open Source and Start-up<br><br>🌱 I'm currently learning DBMS • Web Development • Stats • Linux<br><br>👯 I'm looking to collaborate on Open Source Projects & Start-up<br><br>🤝 I'm looking for help with • Open Source • AI/ML & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • Frontend • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
 
 # 🚀 Featured Projects:
 
