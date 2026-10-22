@@ -110,9 +110,9 @@ Covers everything from basics to OOP with inline comments and runnable examples.
 
 ### 🌐 [Web Development Frontend Self-Learning](https://github.com/aashwinshukla/Web-development-Frontend-Self-Learning)
 **Frontend learning journey with structured notes and 9 projects built from scratch**
-Covers HTML, CSS, Tailwind, JavaScript, and React.js. Includes a weather app with live API integration in vanilla JavaScript and 5 complete React.js projects demonstrating hooks, state management, and component architecture.
+Covers HTML, CSS, Tailwind, Bootstrap, JavaScript, Next.js, and React.js. Includes a weather app with live API integration in vanilla JavaScript and 5 complete React.js projects demonstrating hooks, state management, and component architecture.
 
-**Tech:** `HTML` `CSS` `Tailwind CSS` `JavaScript` `React.js` `API Integration` `Component Design`
+**Tech:** `HTML` `CSS` `Tailwind CSS` `JavaScript` `React.js` `API Integration` `Component Design` `Bootstrap` `Next.js`
 
 ---
 
