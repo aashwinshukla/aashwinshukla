@@ -131,7 +131,7 @@ Covers HTML, CSS, Tailwind, Bootstrap, JavaScript, Next.js, and React.js. Includ
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pydantic](https://img.shields.io/badge/Pydantic-e92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 
 **Frontend**
