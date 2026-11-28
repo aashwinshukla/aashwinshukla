@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aashwin Shukla</h1>
 
-<h3 align="center">Building in public  •  AI Explorer  •  Future Research Engineer</h3>
+<h3 align="center">Full-Stack Developer  •  AI Explorer  •  Future Research Engineer</h3>
 
 # 💫 About Me:
 
-🔭 I'm currently working on Web Development (Full-Stack) and Open Source and Start-up<br><br>🌱 I'm currently learning DBMS • Web Development • Stats • FastAPI<br><br>👯 I'm looking to collaborate on Open Source Projects & Start-up<br><br>🤝 I'm looking for help with • Open Source • AI/ML & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • Frontend • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
+🔭 I'm currently working on Web Development (Full-Stack) and Open Source and Start-up<br><br>🌱 I'm currently expanding my knowledge on Backend • Stats • FastAPI<br><br>👯 I'm looking to collaborate on Open Source Projects & Start-up<br><br>🤝 I'm looking for help with • Open Source • AI/ML & Research<br><br>👨‍💻 All of my projects are available at github.com/aashwinshukla<br><br>💬 Ask me about C • C++ • Python • Frontend • Backend • GitHub • Build in Public <br><br>📫 Reach me at shuklaaashwin949@gmail.com<br><br><br><br><br>
 
 # 🚀 Featured Projects:
 
